@@ -1,5 +1,8 @@
-# Getting Started with Create React App
+# Aplicación de consumo de imágenes en Pixabay
 
+Esta aplicación fue creada y es mantenida por Fabian Andrade.
+Este proyecto es creado directamente con React, además del uso de Bootstrap en la página [Bootswatch](https://bootswatch.com).
+Si quieres darle un vistazo a [Pixabay](https://pixabay.com/api/docs/).
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
